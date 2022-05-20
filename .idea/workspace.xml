@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4aec3efe-934f-4d84-9651-0339c50dbeb0" name="Default Changelist" comment="修改弹窗组件100%宽高">
+      <change beforePath="$PROJECT_DIR$/src/pages/home/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/App.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="deploy" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="ProjectId" id="29Pw7ac8r5LNbbg6S2z1Yxhxqfo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.webpack" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/data" />
+      <recent name="$PROJECT_DIR$/src/view/home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/file-viewer" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/my-documents/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aec3efe-934f-4d84-9651-0339c50dbeb0" name="Default Changelist" comment="" />
+      <created>1653027863349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653027863349</updated>
+      <workItem from="1653027865434" duration="16118000" />
+      <workItem from="1653060183800" duration="469000" />
+      <workItem from="1653060764349" duration="307000" />
+      <workItem from="1653061080007" duration="1808000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建并修改readme">
+      <created>1653030685253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653030685253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成文件加载">
+      <created>1653057412043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653057412043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改文件弹窗样式">
+      <created>1653058120267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653058120267</updated>
+    </task>
+    <task id="LOCAL-00004" summary="创建打包分支">
+      <created>1653059927975</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653059927975</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改打包路径">
+      <created>1653060717482</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653060717482</updated>
+    </task>
+    <task id="LOCAL-00006" summary="重新打包">
+      <created>1653060887034</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653060887034</updated>
+    </task>
+    <task id="LOCAL-00007" summary="重新打包">
+      <created>1653061088960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653061088960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="补充readme">
+      <created>1653061209229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653061209229</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改弹窗组件100%宽高">
+      <created>1653061772452</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653061772452</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建并修改readme" />
+    <MESSAGE value="完成文件加载" />
+    <MESSAGE value="修改文件弹窗样式" />
+    <MESSAGE value="创建打包分支" />
+    <MESSAGE value="修改打包路径" />
+    <MESSAGE value="重新打包" />
+    <MESSAGE value="补充readme" />
+    <MESSAGE value="修改弹窗组件100%宽高" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改弹窗组件100%宽高" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="346" key="#ESLint" timestamp="1653031286632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="583" y="346" key="#ESLint/0.0.1440.900@0.0.1440.900" timestamp="1653031286632" />
+    <state x="469" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653031879925">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="469" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1653031879925" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653031678884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1653031678884" />
+    <state x="288" y="31" key="CommitChangelistDialog2" timestamp="1653061154564">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="288" y="31" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1653061154564" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1653061433232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1653061433232" />
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom" timestamp="1653055650050">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1653055650050" />
+    <state width="1419" height="238" key="GridCell.Tab.0.center" timestamp="1653055650049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1653055650049" />
+    <state width="1419" height="238" key="GridCell.Tab.0.left" timestamp="1653055650049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1653055650049" />
+    <state width="1419" height="238" key="GridCell.Tab.0.right" timestamp="1653055650049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1653055650049" />
+    <state x="467" y="156" key="RollbackChangesDialog" timestamp="1653056057374">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="467" y="156" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1653056057374" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1653052906737">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1653052906737" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1653061774179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1653061774179" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1653057236292">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1653057236292" />
+    <state x="421" y="205" width="597" height="490" key="find.popup" timestamp="1653055480578">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="597" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1653055480578" />
+    <state x="472" y="167" key="git4idea.branch.GitSmartOperationDialog" timestamp="1653060699350">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="472" y="167" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1653060699350" />
+    <state x="542" y="348" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1653030559880">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="348" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1653030559880" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1653054546581">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1653054546581" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1653052897793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1653052897793" />
+  </component>
+</project>
