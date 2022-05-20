@@ -10,6 +10,7 @@
   font-size: calc(10px + 2vmin);
   color: black;
   margin-bottom: 30px;
+  margin-top: 20vmin;
 }
 .menu-item {
   color: black;
@@ -20,4 +21,13 @@
   padding: 2vmin;
   margin-left: 20vmin;
   margin-bottom: 10px;
+}
+.file-dialog {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0vmin;
+  padding-top: 10vw;
+  padding-bottom: 10vw;
+  background-color: rgba(80, 80, 80, 0.1);
 }
