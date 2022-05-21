@@ -1,12 +1,22 @@
 [
   {
-    "title": "· Linda和晓琳还款",
+    "title": "· Linda和晓琳还款.docx",
     "fileType": "docx",
     "fileName": "LindaBorrow.docx"
   },
   {
-    "title": "· 我的投资",
+    "title": "· Linda和晓琳还款.xlsx",
+    "fileType": "xlsx",
+    "fileName": "LindaBorrow.xlsx"
+  },
+  {
+    "title": "· 我的投资.docx",
     "fileType": "docx",
-    "fileName": "LindaBorrow.docx"
+    "fileName": "MyMoney.docx"
+  },
+  {
+    "title": "· 我的投资.xlsx",
+    "fileType": "xlsx",
+    "fileName": "MyMoney.xlsx"
   }
 ]
