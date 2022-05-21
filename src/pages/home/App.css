@@ -34,3 +34,7 @@
 }::-webkit-scrollbar {
   display: none;
  }
+ .file-dialog-close {
+   text-align: left;
+   padding-left: 20px;
+ }

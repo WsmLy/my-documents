@@ -43,9 +43,8 @@ class App extends Component {
                         this.showContent(item, i)
                     }}>{item.title}</div>
                 })}
-                {isOpen && <div className="file-dialog" onClick={() => {
-                    this.dismissContent()
-                }}>
+                {isOpen && <div className="file-dialog">
+                    <div className='file-dialog-close' onClick={()=>{this.dismissContent()}}>关闭</div>
                     <FileViewer
                         fileType={fileType}
                         filePath={require('data/' + fileName)}

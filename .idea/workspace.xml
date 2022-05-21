@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aec3efe-934f-4d84-9651-0339c50dbeb0" name="Default Changelist" comment="修改弹窗组件100%宽高">
+      <change afterPath="$PROJECT_DIR$/src/data/LindaBorrow.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/MyMoney.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/MyMoney.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/menu.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/menu.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +60,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/data" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,6 +81,7 @@
       <recent name="$PROJECT_DIR$/src/view/home" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/file-viewer" />
       <recent name="$PROJECT_DIR$/src" />
@@ -104,6 +111,7 @@
       <workItem from="1653060183800" duration="469000" />
       <workItem from="1653060764349" duration="307000" />
       <workItem from="1653061080007" duration="1808000" />
+      <workItem from="1653142445634" duration="1367000" />
     </task>
     <task id="LOCAL-00001" summary="创建并修改readme">
       <created>1653030685253</created>
@@ -234,10 +242,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1653055650049" />
-    <state x="467" y="156" key="RollbackChangesDialog" timestamp="1653056057374">
+    <state x="467" y="156" key="RollbackChangesDialog" timestamp="1653064139529">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="467" y="156" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1653056057374" />
+    <state x="467" y="156" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1653064139529" />
     <state x="229" y="86" key="SettingsEditor" timestamp="1653052906737">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
