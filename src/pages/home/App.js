@@ -9,11 +9,24 @@ class App extends Component {
         this.state = {
             fileType: '',
             fileName: '',
-            isOpen: false
+            isOpen: false,
+            menuData: []
         }
     }
 
-    showContent = (item, i) => {
+    showMenu = (item) => {
+        this.setState({
+            menuData: require("../../data/" + item.link) || []
+        })
+    }
+
+    dismissMenu = () => {
+        this.setState({
+            menuData: []
+        })
+    }
+
+    showContent = (item) => {
         this.setState({
             fileType: item.fileType,
             fileName: item.fileName,
@@ -31,16 +44,24 @@ class App extends Component {
 
     render() {
 
-        const menuData = require('../../data/menu.json') || []
-        const {fileName, fileType, isOpen} = this.state
+        const groupData = require('../../data/group.json') || []
+        const {fileName, fileType, isOpen, menuData = []} = this.state
         return (
             <div className="App">
                 <h1 className="menu">
                     目录
                 </h1>
+                {menuData.length > 0 && <div onClick={() => {
+                    this.dismissMenu()
+                }}>返回</div>}
+                {menuData.length <= 0 && groupData.map((item, i) => {
+                    return <div className="menu-item" key={'group_' + i} onClick={() => {
+                        this.showMenu(item)
+                    }}>{item.title}</div>
+                })}
                 {menuData.map((item, i) => {
                     return <div className="menu-item" key={'menu_' + i} onClick={() => {
-                        this.showContent(item, i)
+                        this.showContent(item)
                     }}>{item.title}</div>
                 })}
                 {isOpen && <div className="file-dialog">
