@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.ea1747bf.css",
-    "main.js": "./static/js/main.e2e716ce.js",
+    "main.css": "./static/css/main.411b96e5.css",
+    "main.js": "./static/js/main.327a70fc.js",
     "static/media/LindaBorrow.docx": "./static/media/LindaBorrow.ef10c9a2d327bcc76bf0.docx",
+    "static/media/MyMoney.xlsx": "./static/media/MyMoney.3d50b47de7aef2566dd1.xlsx",
+    "static/media/MyMoney.docx": "./static/media/MyMoney.b728cdc65b645cc03a68.docx",
+    "static/media/LindaBorrow.xlsx": "./static/media/LindaBorrow.0ffd8a60f1efc9f01c39.xlsx",
     "index.html": "./index.html",
-    "main.ea1747bf.css.map": "./static/css/main.ea1747bf.css.map",
-    "main.e2e716ce.js.map": "./static/js/main.e2e716ce.js.map"
+    "main.411b96e5.css.map": "./static/css/main.411b96e5.css.map",
+    "main.327a70fc.js.map": "./static/js/main.327a70fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea1747bf.css",
-    "static/js/main.e2e716ce.js"
+    "static/css/main.411b96e5.css",
+    "static/js/main.327a70fc.js"
   ]
 }
