@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aec3efe-934f-4d84-9651-0339c50dbeb0" name="Default Changelist" comment="修改弹窗组件100%宽高">
-      <change afterPath="$PROJECT_DIR$/src/data/group.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/MyMoney.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/MyMoney.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653061772452</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="创建分组">
+      <created>1653153843091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653153843091</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +206,8 @@
     <MESSAGE value="重新打包" />
     <MESSAGE value="补充readme" />
     <MESSAGE value="修改弹窗组件100%宽高" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改弹窗组件100%宽高" />
+    <MESSAGE value="创建分组" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建分组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="583" y="346" key="#ESLint" timestamp="1653031286632">
